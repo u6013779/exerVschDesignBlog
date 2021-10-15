@@ -30,9 +30,23 @@ You don't need to complete all the steps of this tutorial. You really only need 
 * 06:12 Make a pull request from your new branch to the main branch
 * 07:26 Switch which branch is serving the site
 
-## Helpful demonstration
+## Helpful demonstrations
 
 There are many ways this could be completed. Here are a couple layout options if you're looking for suggestions.
 
 * CSS multiple-column layout: https://www.youtube.com/watch?v=syG7ljxqzNg
 * CSS grid layout: https://www.youtube.com/watch?v=qTGbWfEEnKI
+
+Here are some other CSS and grid videos for inspiration and help.
+
+* 7 CSS techniques (11 minutes): https://www.youtube.com/watch?v=l_AUK0Z6D68&list=RDCMUCVyRiMvfUNMA1UPlDPzG5Ow&index=11
+* A beginner's tutorial to CSS grid (A nice explanation of some of the basics.) (18 min): https://www.youtube.com/watch?v=xXKp3b1YL-U
+    * Resource mentioned in the video: https://css-tricks.com/snippets/css/complete-guide-grid/
+* The ultimate CSS grid positioning tutorial (If you're using VSCode with Live Sass Compiler, you can ignore the first part showing Node.js.) (21 min): https://www.youtube.com/watch?v=20wCJ56whxo&t=282s
+* CSSGR.ID - An easy, interactive way to learn the CSS grid (12 min): https://www.youtube.com/watch?v=XbEqfYr9pIo&t=616s
+* Easily structure your layout with CSS Grid's 'grid-template-areas' (12 min): https://www.youtube.com/watch?v=qTGbWfEEnKI
+* Responsive CSS grid with no media queries (20 min): https://www.youtube.com/watch?v=bam83Xv4VMA
+* Stop the CSS grid confusion - 2 ways to grid (26 min): https://www.youtube.com/watch?v=YNB-JD7iPoQ&t=517s
+* The magic of CSS grid auto-fit vs auto-fill (12 min): https://www.youtube.com/watch?v=qII5BueXWD4
+* Future CSS - The CSS subgrid is awesome! (Not supported in most browsers yet as of 2021.) (17 min): https://www.youtube.com/watch?v=5Z_JX-EhRJA
+* CSS grid responsive tutorial (I liked the history of layout at the beginning. Also good explanation of fr.) (43 min): https://www.youtube.com/watch?v=SPFDLHNm5KQ
