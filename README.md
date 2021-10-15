@@ -32,4 +32,7 @@ You don't need to complete all the steps of this tutorial. You really only need 
 
 ## Helpful demonstration
 
-There are many ways this could be completed. I think concepts from this video could be adapted to this assignment if you're looking for suggestions. https://www.youtube.com/watch?v=syG7ljxqzNg
+There are many ways this could be completed. Here are a couple layout options if you're looking for suggestions.
+
+* CSS multiple-column layout: https://www.youtube.com/watch?v=syG7ljxqzNg
+* CSS grid layout: https://www.youtube.com/watch?v=qTGbWfEEnKI
