@@ -44,7 +44,6 @@ Here are some other CSS and grid videos for inspiration and help.
     * Resource mentioned in the video: https://css-tricks.com/snippets/css/complete-guide-grid/
 * The ultimate CSS grid positioning tutorial (If you're using VSCode with Live Sass Compiler, you can ignore the first part showing Node.js.) (21 min): https://www.youtube.com/watch?v=20wCJ56whxo&t=282s
 * CSSGR.ID - An easy, interactive way to learn the CSS grid (12 min): https://www.youtube.com/watch?v=XbEqfYr9pIo&t=616s
-* Easily structure your layout with CSS Grid's 'grid-template-areas' (12 min): https://www.youtube.com/watch?v=qTGbWfEEnKI
 * Responsive CSS grid with no media queries (20 min): https://www.youtube.com/watch?v=bam83Xv4VMA
 * Stop the CSS grid confusion - 2 ways to grid (26 min): https://www.youtube.com/watch?v=YNB-JD7iPoQ&t=517s
 * The magic of CSS grid auto-fit vs auto-fill (12 min): https://www.youtube.com/watch?v=qII5BueXWD4
