@@ -36,6 +36,7 @@ There are many ways this could be completed. Here are a couple layout options if
 
 * CSS multiple-column layout: https://www.youtube.com/watch?v=syG7ljxqzNg
 * CSS grid layout: https://www.youtube.com/watch?v=qTGbWfEEnKI
+* CSS div and flex layout: https://www.youtube.com/watch?v=bn-DQCifeQQ&t=158s
 
 Here are some other CSS and grid videos for inspiration and help.
 
