@@ -50,3 +50,7 @@ Here are some other CSS and grid videos for inspiration and help.
 * The magic of CSS grid auto-fit vs auto-fill (12 min): https://www.youtube.com/watch?v=qII5BueXWD4
 * Future CSS - The CSS subgrid is awesome! (Not supported in most browsers yet as of 2021.) (17 min): https://www.youtube.com/watch?v=5Z_JX-EhRJA
 * CSS grid responsive tutorial (I liked the history of layout at the beginning. Also good explanation of fr.) (43 min): https://www.youtube.com/watch?v=SPFDLHNm5KQ
+
+Here is some additional information about flexbox.
+
+* Flexbox design patterns (16 min): https://www.youtube.com/watch?v=vQAvjof1oe4
