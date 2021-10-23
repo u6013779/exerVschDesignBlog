@@ -35,7 +35,7 @@ You don't need to complete all the steps of this tutorial. You really only need 
 There are many ways this could be completed. Here are a couple layout options if you're looking for suggestions.
 
 * CSS multiple-column layout: https://www.youtube.com/watch?v=syG7ljxqzNg
-* CSS grid layout: https://www.youtube.com/watch?v=qTGbWfEEnKI
+* CSS grid layout: https://www.youtube.com/watch?v=qTGbWfEEnKI or https://www.youtube.com/watch?v=v5KzBPUEgGQ
 * CSS div and flex layout: https://www.youtube.com/watch?v=bn-DQCifeQQ&t=158s
 
 Here are some other CSS and grid videos for inspiration and help.
