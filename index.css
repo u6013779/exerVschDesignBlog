@@ -1,0 +1,75 @@
+body {
+    background-color: grey;
+    width: 100%;
+}
+
+.nav-bar {
+    text-transform: uppercase;
+    text-decoration: underline;
+    position: fixed;
+    width: max-width;
+    padding: 20px;
+    color: yellow;
+    
+}
+
+.about {
+    position: relative;
+    left: 250px;
+}
+
+.discussion {
+    position: relative;
+    left: 500px;
+}
+
+.blog-name {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: maroon;
+    margin: 60px;
+    padding: 30px;
+    max-width: fit-content;
+    text-align: center;
+
+}
+.post-4 {
+    border: 3px solid yellow;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    float: right;
+    image-orientation: left;
+}
+
+.post-3 {
+    border: 3px solid yellow;
+    padding: 20px;
+    margin: 20px;
+    float: right;
+}
+
+.post-2 {
+    display: inline-block;
+    border: 3px solid yellow;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+}
+
+.post-1 {
+    display: inline-block;
+    border: 3px solid yellow;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+}
+
+img {
+    width: 325px;
+    height: 325px;
+    float: left;
+}
+
+
+
